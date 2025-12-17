@@ -225,5 +225,5 @@ SSH key authentication is a foundational security control in DevSecOps. Proper k
 
 ---
 
-**Document Owner:** DevSecOps Team
+**Document Owner:** Distrodev [ Fullstack Developer | DevSecOps Engineer ]
 **Last Updated:** 2025

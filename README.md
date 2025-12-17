@@ -3,9 +3,9 @@
 ## Project Url
 https://roadmap.sh/projects/ssh-remote-server-setup
 
-**Role Perspective:** DevSecOps Engineer
-**Audience:** Developers, SysAdmins, DevOps/DevSecOps Engineers
-**Goal:** Securely configure SSH key-based authentication for Linux servers, replacing or strengthening password-based access.
+- **Role Perspective:** DevSecOps Engineer
+- **Audience:** Developers, SysAdmins, DevOps/DevSecOps Engineers
+- **Goal:** Securely configure SSH key-based authentication for Linux servers, replacing or strengthening password-based access.
 
 ---
 
@@ -225,5 +225,5 @@ SSH key authentication is a foundational security control in DevSecOps. Proper k
 
 ---
 
-**Document Owner:** Distrodev [ Fullstack Developer | DevSecOps Engineer ]
-**Last Updated:** 2025
+- **Document Owner:** Distrodev [ Fullstack Developer | DevSecOps Engineer ]
+- **Last Updated:** 2025
